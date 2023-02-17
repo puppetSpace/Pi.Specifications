@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33103.201
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pi.Specifications", "Pi.Specifications\Pi.Specifications.csproj", "{747B7049-6F3A-4499-A296-14A9BA8471D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pi.Specifications.Test", "Pi.Specifications.Test\Pi.Specifications.Test.csproj", "{61E16BB4-733B-48E9-BFFF-FD773B20B39E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{747B7049-6F3A-4499-A296-14A9BA8471D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{747B7049-6F3A-4499-A296-14A9BA8471D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{747B7049-6F3A-4499-A296-14A9BA8471D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{747B7049-6F3A-4499-A296-14A9BA8471D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61E16BB4-733B-48E9-BFFF-FD773B20B39E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E16BB4-733B-48E9-BFFF-FD773B20B39E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E16BB4-733B-48E9-BFFF-FD773B20B39E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E16BB4-733B-48E9-BFFF-FD773B20B39E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED1C2E68-EC39-440C-AB1B-FDBEEBE3BE1A}
+	EndGlobalSection
+EndGlobal
