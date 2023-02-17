@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Jdn.Specifications.Test;
+namespace Pi.Specifications.Test;
 public class NotSpecificationTest
 {
     [Fact]

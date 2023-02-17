@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Jdn.Specifications;
+namespace Pi.Specifications;
 public class OrSpecification<TE> : ISpecification<TE>
 {
     private readonly ISpecification<TE> _left;

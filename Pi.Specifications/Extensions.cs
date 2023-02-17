@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Jdn.Specifications;
+namespace Pi.Specifications;
 public static class Extensions
 {
     public static ISpecification<TE> And<TE>(this ISpecification<TE> left, ISpecification<TE> right ) => new AndSpecification<TE>(left,right);

@@ -1,4 +1,4 @@
-namespace Jdn.Specifications.Test;
+namespace Pi.Specifications.Test;
 
 public class AndSpecificationTest
 {
